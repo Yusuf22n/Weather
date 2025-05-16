@@ -1,0 +1,13 @@
+{
+  "title": "Weather Comparison in Cities",
+  "select_metric": "Select a metric:",
+  "metrics": {
+    "temp": "Temperature (°C)",
+    "pressure": "Pressure (hPa)",
+    "humidity": "Humidity (%)",
+    "wind": "Wind (m/s)"
+  },
+  "remove": "Remove",
+  "not_found": "City not found",
+  "fetch_error": "Failed to fetch weather data"
+}
